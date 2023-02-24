@@ -1,0 +1,32 @@
+[
+    {
+        "Emp_Id":143,
+        "Emp_Name":"MNC ",
+        "Emp_Sal":"3,00,000",
+        "Emp_Des":"Developer",
+        "Emp_Gender":"Male",
+        "Emp_Education":"Msc",
+        "Emp_Exp":"3 years",
+        "Emp_Companies":{"previous":"BBM",
+                         "current":"TCL"
+                        },
+          "Emp_Image":"https://imageio.forbes.com/specials-images/imageserve/5ecebee7938ec500060ab34f/0x0.jpg?format=jpg&crop=2336,2337,x1064,y702,safe&height=416&width=416&fit=bounds",
+          "Emp_Skills":["java","sql","react","web"],
+          "Emp_City":"Abc"
+    },
+
+   {   "Emp_Id":143,
+        "Emp_Name":"MR",
+        "Emp_Sal":"4,00,000",
+        "Emp_Des":"Tester",
+        "Emp_Gender":"Male",
+        "Emp_Education":"Bsc",
+        "Emp_Exp":"5 years",
+        "Emp_Companies":{"previous":"ABC",
+                         "current":"BBM"
+                        },
+          "Emp_Image":"https://s.ndtvimg.com/images/entities/300/virat-kohli-967.png",
+          "Emp_Skills":["java","sql","react","web"],
+          "Emp_City":"Bac"
+                    }
+]

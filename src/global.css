@@ -1,0 +1,15 @@
+.mainDiv{
+    height: 200px;
+    width: 800px;
+    background-color:greenyellow;
+    color: blue;
+    border: 2px solid rgb(0, 255, 183);
+    text-align: center;
+} 
+.groups{
+    width: 400px;
+    height: 200px;
+    color: #f9fad7;
+    display: contents;
+    
+} 
