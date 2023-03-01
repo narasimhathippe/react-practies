@@ -40,12 +40,18 @@
 // export default App
 
 import React from 'react'
-import Hooks from "./Hooks"
+// import Rendering from './Rendering'
+// import Domevent from './Domevent.jsx'
+// import PlayPause from "./PlayPause"
+// import CounterFBC from './CounterFBC.jsx'
+// import Rendering from './Rendering'
 function App() {
   return (
     <div>
-<Hooks />
-
+{/* < Domevent /> */}
+{/* <PlayPause /> */}
+{/* <CounterFBC  /> */}
+{/* <Rendering /> */}
     </div>
   )
 }
