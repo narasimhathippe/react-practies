@@ -1,0 +1,87 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h3{
+    font-size: 50px;
+    color: red;
+}
+form{
+    border: 2px solid forestgreen;
+    width: 800px;
+    height: 200px;
+    margin-left: 130px;
+}
+h2{
+    background-color: yellow;
+    
+}
+label{
+    padding-left: 120px;
+    font-size: 20px;
+}
+input{
+    width: 300px;
+    height: 25px;
+    margin-left: 40px;
+}
+button{
+    width: 300px;
+    height: 25px;
+    background-color: green;
+    margin-left: 240px;
+}
+ul{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    height: 30px;
+    background-color: rgba(62, 172, 180, 0.562);
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+}
+h1{
+    padding-top: 100px;
+    text-align: center;
+    color: blue;
+}
+#dash{
+    border: 2px solid black;
+    height: 400px;
+
+}
+#emp{
+    border: 2px solid black;
+    height: 500px;
+}
+#user1{
+    margin-left: 80px;
+}
+#dropdown{
+    margin-left: 30px;
+}
+#img{
+    margin-left: 20px;
+}
+#male{
+    margin-left: -70px;
+}
+#female{
+    margin-left: -210px;
+}
+#course1{
+    margin-left: -70px;
+    padding: 0px;
+}
+#course2{
+    margin-left: -210px;
+}
+#course3{
+    margin-left: -210px;
+
+}
